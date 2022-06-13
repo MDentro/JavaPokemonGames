@@ -53,12 +53,8 @@ public class GrassPokemon extends Pokemon {
         attack(name, enemy, type);
     }
 
-
     public void leaveBlade(Pokemon name, Pokemon enemy) {
         String type = "leaveBlade";
         attack(name, enemy, type);
     }
-
-
-
 }

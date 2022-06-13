@@ -67,6 +67,4 @@ public class ElectricPokemon extends Pokemon {
         String type = "thunder";
         attack(name, enemy, type);
     }
-
-
 }

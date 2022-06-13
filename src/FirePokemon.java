@@ -53,6 +53,4 @@ public class FirePokemon extends Pokemon{
         String type = "inferno";
         attack(name, enemy, type);
     };
-
-
 }
